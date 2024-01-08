@@ -1,0 +1,115 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.head-img {
+    margin: 50px 140px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../resources/bg.png');
+    height: 600px;
+    width: 1320px;
+}
+
+.happy-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.happy-text h4 {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.happy-text h1 {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+}
+
+.off h1 {
+    margin-top: 120px;
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+}
+
+.off p {
+    margin-top: 48px;
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.off h2 {
+    margin-top: 20px;
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.fill-img {
+    margin: 48px 455px;
+    background: url('../resources/fill.png');
+    width: 803px;
+    height: 500px;
+    flex-shrink: 0;
+}
+
+.container {
+    margin: 50px 140px;
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../resources/banner.png');
+    height: 600px;
+    width: 1320px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.banner-text h1 {
+    margin: 110px 110px;
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+}
+
+.banner-text p {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.banner-text h4 {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.banner-img{
+width: 319.83px;
+height: 464.662px;
+padding: 0.008px 0px 0px 0px;
+justify-content: center;
+align-items: center;
+flex-shrink: 0;
+}
